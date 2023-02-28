@@ -1,0 +1,1 @@
+Before running 'main.py' make sure you have installed SQlite browser(to store datas).
